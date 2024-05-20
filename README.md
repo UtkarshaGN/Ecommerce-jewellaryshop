@@ -3,7 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #output of my project
-![jewellary2](https://github.com/UtkarshaGN/Ecommerce-jewellaryshop/assets/132172238/5990c943-3066-45cc-9385-614496f869d1)
+
+![jewellary](https://github.com/UtkarshaGN/Ecommerce-jewellaryshop/assets/132172238/958561eb-dae8-44f1-a475-b593103dcb58)
 
 
 ## Available Scripts
